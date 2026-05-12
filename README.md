@@ -20,7 +20,7 @@ This dashboard solves that by providing a **data-driven view of financial activi
 -  Interactive and user-friendly dashboard
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** – Core programming language  
 - **Pandas** – Data cleaning and manipulation  
