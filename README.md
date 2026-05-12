@@ -12,12 +12,12 @@ This dashboard solves that by providing a **data-driven view of financial activi
 
 ##  Features
 
-- 📁 Upload your financial dataset (CSV format)
-- 💸 Track expenses by category
-- 📊 Visualize spending patterns with charts
-- 📈 Income vs Expense comparison
-- 🧠 Quick insights into financial behavior
-- 🖥️ Interactive and user-friendly dashboard
+-  Upload your financial dataset (CSV format)
+-  Track expenses by category
+-  Visualize spending patterns with charts
+-  Income vs Expense comparison
+-  Quick insights into financial behavior
+-  Interactive and user-friendly dashboard
 
 
 ## 🛠️ Tech Stack
