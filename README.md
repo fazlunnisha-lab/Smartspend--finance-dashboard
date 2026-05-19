@@ -27,4 +27,9 @@ This dashboard solves that by providing a **data-driven view of financial activi
 - **Matplotlib** – Data visualization  
 - **Streamlit** – Interactive dashboard interface  
 
-## 📂 Project Structure
+## How to run 
+```bash
+git clone https://github.com/fazlunnisha-lab/Smartspend--finance-dashboard.git
+cd Smartspend--finance-dashboard
+pip install -r requirements.txt
+streamlit run app.py
