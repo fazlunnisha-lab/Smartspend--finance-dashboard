@@ -2,6 +2,8 @@
 
 A simple and interactive **Finance Tracker Dashboard** that helps users analyze and visualize their personal financial data. This project transforms raw expense data into meaningful insights, making it easier to track spending habits, monitor income, and make better financial decisions.
 
+# Markdown
+![dashboard screenshot](https://github.com/fazlunnisha-lab/Smartspend--finance-dashboard/blob/3c78ed45b7863379b493a47a4ba4e73e761bbbb4/Demo.png.png)
 
 ##  Problem Statement
 
